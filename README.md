@@ -10,9 +10,4 @@
   
   <p align="center">Codebase Repo, find all info at: <a href="https://www.titusstudios.net/blog/protogen-build">https://www.titusstudios.net/blog/protogen-build</a></p>
 </p>
-
-<br>
-<br>
-<br>
-
-<p align="right">Copyright © 2020 Titus Studios Media</p>
+<p align="center">Copyright © 2020 Titus Studios Media</p>
