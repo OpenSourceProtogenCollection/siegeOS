@@ -1,3 +1,12 @@
-![siegeOS Protogen OS](https://www.titusstudios.net/data/static/images/siegeos.png)
-
-Codebase Repo, find all info at: [https://www.titusstudios.net/blog/protogen-build](https://www.titusstudios.net/blog/protogen-build)
+<p align="center">
+  <a href="https://www.titusstudios.net/">
+    <img
+      alt="siegeOS Protogen OS - TitusStudios"
+      title="www.titusstudios.net/"
+      src="https://www.titusstudios.net/data/static/images/siegeos.png"
+      width="600"
+    />
+  </a>
+  
+  <p align="center">Codebase Repo, find all info at: <a href="https://www.titusstudios.net/blog/protogen-build">https://www.titusstudios.net/blog/protogen-build</a></p>
+</p>
