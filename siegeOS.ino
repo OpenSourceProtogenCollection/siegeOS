@@ -148,9 +148,8 @@ void dispByte2(int dispNum2, byte character [])
 }
 
 void loop(){     
-
-  Serial.print("[DEBUG] Loop Begin");
-  Serial.println(); 
+  
+  Serial.println("[DEBUG] Loop Begin"); 
 
   // -- DEFAULT --
   //Right
@@ -172,8 +171,7 @@ void loop(){
 
   delay(1000);
   
-  Serial.print("[DEBUG] Loop End");
-  Serial.println(); 
+  Serial.println("[DEBUG] Loop End"); 
 }
 
 /*
